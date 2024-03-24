@@ -1,0 +1,15 @@
+D:\Unity codegym\CtoF\animal\bin\Debug\net6.0\animal.exe
+D:\Unity codegym\CtoF\animal\bin\Debug\net6.0\animal.deps.json
+D:\Unity codegym\CtoF\animal\bin\Debug\net6.0\animal.runtimeconfig.json
+D:\Unity codegym\CtoF\animal\bin\Debug\net6.0\animal.dll
+D:\Unity codegym\CtoF\animal\bin\Debug\net6.0\animal.pdb
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\animal.csproj.AssemblyReference.cache
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\animal.AssemblyInfoInputs.cache
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\animal.AssemblyInfo.cs
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\animal.csproj.CoreCompileInputs.cache
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\animal.dll
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\refint\animal.dll
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\animal.pdb
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\animal.genruntimeconfig.cache
+D:\Unity codegym\CtoF\animal\obj\Debug\net6.0\ref\animal.dll
